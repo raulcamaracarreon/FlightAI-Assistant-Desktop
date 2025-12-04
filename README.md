@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![GUI](https://img.shields.io/badge/Interface-PyQt6-green)
 ![AI Models](https://img.shields.io/badge/OpenAI-GPT--4%20%7C%20DALL--E%203%20%7C%20TTS-purple)
-
+![Demo FlightAI Assistant](screenshots/llm_chatbot_flight_assistant.JPG)
 Un asistente virtual de escritorio para aerolíneas que lleva la experiencia del usuario al siguiente nivel mediante IA Multimodal. No solo responde preguntas sobre vuelos, sino que **genera imágenes** del destino para inspirar al viajero y **responde con voz** para una interacción más natural.
 
 ---
